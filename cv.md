@@ -1,11 +1,14 @@
 #Elena Kostenich
+
 ###Junior Frontend Developer
+
+
 ***
 #### Contacts
 * __Location:__ Smolensk, Russia
 * __Phone:__ +7-951-706-08-75
 * __Email:__ j45k56@gmail.com
-* __Discord:__ Elena
+* __Discord:__ Elena (@ElenaKostenich)
 
 ***
 
