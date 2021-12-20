@@ -1,6 +1,6 @@
-#Elena Kostenich
+# Elena Kostenich
 
-###Junior Frontend Developer
+### Junior Frontend Developer
 
 
 ***
@@ -34,10 +34,10 @@ const person = {
 ```
 
 #### Courses
-JavaScript - https://learn.javascript.ru/
-CS50 video course
-Video courses on YouTube channels
+* JavaScript - https://learn.javascript.ru/
+* CS50 video course
+* Video courses on YouTube channels
 
-#### English
+#### Languages
 Russian - Native
 English - A2 
