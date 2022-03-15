@@ -23,14 +23,20 @@
 
 #### Code Examples
 ```
-const person = {
-  firstName: "Ivan",
-  lastName : "Ivanov",
-  id       : 12345,
-  fullName : function() {
-    return this.firstName + " " + this.lastName;
-  }
-};
+function toWeirdCase(string){
+  let result = "";
+  string.split(" ").map((str) => {
+    for (let i = 0; i < str.length; i++) {
+      if (i % 2 === 0) {
+        result += str[i].toUpperCase();
+      } else {
+        result += str[i];
+      }
+    }
+    result += " ";
+  });
+  return result.trim();
+}
 ```
 
 #### Courses
